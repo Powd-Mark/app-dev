@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-==Pre-Finals: Task Performance==
+# Pre-Finals: Task Performance
 
 ---
 
@@ -15,10 +15,10 @@ My first repository
 > You have a gift. You have power. And with great power, there must also come great responsibility.
 
 **Timeline**
-The Multiverse Saga: Phase Four: After the Eternals
+*The Multiverse Saga: Phase Four: After the Eternals*
 
 **Synopsis**
-with Peter Parker's identity revealed as our Friendly Neighborhood Spider-man, his normal life changes as his love ones are facing great risk due to public opinion regarding the last incident from Spider-man: Far from Home. Peter Parker, goes to Doctor Strange to restore his hidden identity but unfortunately Peter happen to break the spell which forms the Sinister 6 from different dimensions, alongside with the other two Spider-man.
+*with Peter Parker's identity revealed as our Friendly Neighborhood Spider-man, his normal life changes as his love ones are facing great risk due to public opinion regarding the last incident from Spider-man: Far from Home. Peter Parker, goes to Doctor Strange to restore his hidden identity but unfortunately Peter happen to break the spell which forms the Sinister 6 from different dimensions, alongside with the other two Spider-man.*
 
 **Sinister 6**
 - Dr. Otto Octavius as Doc Oc
@@ -40,10 +40,7 @@ with Peter Parker's identity revealed as our Friendly Neighborhood Spider-man, h
 
 ---
 
-```
-{
-  "Name": "Mark Lape",
-  "Section": "BS501",
-  "Course": "Application Development and Emerging Technologies"
-}
-```
+"Name": "Mark Lape",
+"Section": "BS501",
+"Course": "Application Development and Emerging Technologies"
+
